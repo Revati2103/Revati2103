@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revati2103&label=Profile%20views&color=0e75b6&style=flat" alt="revati2103" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux** & aiming to be consistent with my learnings .
 
 - ⚡ Fun fact **I love to cook - it helps me relieve any stress !**
 
