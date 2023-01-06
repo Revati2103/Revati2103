@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux** & aiming to be consistent with my learnings .
 
-- ⚡ Fun fact **I love to cook - it helps me relieve any stress !**
+- ⚡ Fun fact **I love exploring different cuisines and places!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
