@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I love exploring different cuisines and places!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
