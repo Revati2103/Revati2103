@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revati2103&label=Profile%20views&color=0e75b6&style=flat" alt="revati2103" /> </p>
 
-- 🌱 I’m currently learning **Redux** & aiming to be consistent with my learnings . Also working on some exciting side projects to implement as I learn . 
-
+- 🌱 I’m someone who values  **consistency** . Currently building an exciting project that utilizes mapbox-gl-js library.
 - ⚡ Fun fact **I love exploring different cuisines and places!**
 
 <p align="left">
