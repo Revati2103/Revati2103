@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revati2103&label=Profile%20views&color=0e75b6&style=flat" alt="revati2103" /> </p>
 
-- 🌱 I’m someone who values  **consistency** . Currently building an exciting project that utilizes mapbox-gl-js library.
+- 🌱 I’m someone who values  **consistency** . Currently building an exciting project that utilizes Plaid API .
 - ⚡ Fun fact **I love exploring different cuisines and places!**
 
 <p align="left">
