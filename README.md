@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Revati</h1>
+<h1 align="center">Hi 👋, I'm Revati!</h1>
 <h3 align="center">I'm a passionate self taught front end engineer with a desire to learn and grow in a collaborative team environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revati2103&label=Profile%20views&color=0e75b6&style=flat" alt="revati2103" /> </p>
