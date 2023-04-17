@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Revati!</h1>
-<h3 align="center">I'm a passionate self taught front end engineer with a desire to learn and grow in a collaborative team environment.</h3>
+<h3 align="center">I'm a full stack engineer with a desire to learn and grow in a collaborative team environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revati2103&label=Profile%20views&color=0e75b6&style=flat" alt="revati2103" /> </p>
 
-- 🌱 I’m someone who values  **consistency** . Currently building an exciting project that utilizes Plaid API .
-- ⚡ Fun fact **I love exploring different cuisines and places!**
+- 🌱 I’m someone who values  **consistency** . Currently exploring Sanity.io & AWS Elastic Beanstalk .
+- ⚡ Fun fact **Spring is my favorite season , love being outside as much as possible!**
 
 <p align="left">
 </p>
