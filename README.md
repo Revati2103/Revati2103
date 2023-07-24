@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revati2103&label=Profile%20views&color=0e75b6&style=flat" alt="revati2103" /> </p>
 
-- 🌱 I’m someone who values  **consistency** . Currently exploring Sanity.io & AWS Elastic Beanstalk .
-- ⚡ Fun fact **Spring is my favorite season , I love being outside as much as possible!**
+- 🌱 I’m someone who values  **consistency** . Currently exploring GraphQL .
+- ⚡ Fun fact **I love being outside as much as possible!**
 
 <p align="left">
 </p>
